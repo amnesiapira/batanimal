@@ -5,8 +5,22 @@
   "name": "Batalha Animal",
   "description": "Jogo de batalha com animais",
   "orientation": "portrait",
-  "scope": "/",
+  "scope": "/batanimal/",
   "short_name": "BatAnimal",
-  "start_url": "/",
-  "theme_color": "#f5a623"
+  "start_url": "/batanimal/",
+  "theme_color": "#f5a623",
+  "icons": [
+    {
+      "src": "/batanimal/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/batanimal/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
