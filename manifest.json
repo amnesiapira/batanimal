@@ -1,11 +1,12 @@
 {
-  "background_color": "#ffffff",
+  "background_color": "#0f1923",
   "dir": "ltr",
-  "display": "standalone",
-  "name": "amnesiapira.github",
-  "orientation": "any",
+  "display": "fullscreen",
+  "name": "Batalha Animal",
+  "description": "Jogo de batalha com animais",
+  "orientation": "portrait",
   "scope": "/",
-  "short_name": "amnesiapira.github",
+  "short_name": "BatAnimal",
   "start_url": "/",
-  "theme_color": "#ffffff"
+  "theme_color": "#f5a623"
 }
